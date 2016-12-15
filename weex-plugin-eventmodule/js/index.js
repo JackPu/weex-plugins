@@ -1,4 +1,6 @@
+import vc from 'vue-core-image-upload';
+
 export default function() {
-  console.log(1);
+  console.log(vc);
     
 }
